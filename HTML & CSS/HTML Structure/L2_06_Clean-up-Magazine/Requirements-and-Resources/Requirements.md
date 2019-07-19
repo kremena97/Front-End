@@ -1,4 +1,4 @@
-# 06 - Clean Up Nasty HTML Magazine
+ 06 - Clean Up Nasty HTML Magazine
 ------
 Problems for in-class lab for the [“HTML & CSS”](https://softuni.bg/trainings/2375/html-and-css-may-2019) course @ **SoftUni**.
 
